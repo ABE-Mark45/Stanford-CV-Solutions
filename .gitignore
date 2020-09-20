@@ -1,0 +1,9 @@
+/fall_2017
+
+/fall_2018
+
+__pycache__/
+
+.ipy_checkpoints/
+
+*.pyc
